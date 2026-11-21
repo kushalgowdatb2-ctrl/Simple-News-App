@@ -128,7 +128,7 @@ lib/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/simple_news_app.git
+git clone https://github.com/kushalgowdatb2-ctrl/Simple-News-App.git
 cd simple_news_app
 ```
 
